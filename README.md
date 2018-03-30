@@ -5,7 +5,7 @@ Awesome note on Dev++ groups. We're glad to welcome you joining at [Skype Group]
 
 ## Golang
 
-1. đi theo cái tour của golang để làm quen synctax với biết golang có gì khác với mấy ngô ngữ khác:
+1. đi theo cái tour của golang để làm quen syntax với biết golang có gì khác với mấy ngôn ngữ khác:
 https://tour.golang.org/welcome/1
 2. rãnh thì xem thêm cái clip của cha đẻ golang, ổng giải thích cấu trúc code, 1 số Tips cho golang:
 https://www.youtube.com/watch?v=f6kdp27TYZs
